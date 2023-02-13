@@ -1,0 +1,40 @@
+body {
+background-image: url(pic1.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: #5F9EA0;
+}
+.header h1 {
+  margin: 0;
+}
+.navbar {
+  justify-content: space-between;
+  padding: 10px 20px;
+  background-color: #F5FFFA;
+}
+.navbar a {
+  color: #FFD700;
+   font-family: verdana;
+  text-decoration: none;
+  padding: 10px 20px;
+}
+
+a, .logout {
+  color: #FFD700;
+
+}
+img {
+  height: 300px;
+  width: 300px;
+
+}
+span {
+	 background-color: #5F9EA0;
+}

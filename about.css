@@ -1,0 +1,13 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: #5F9EA0;
+  text-align: center;
+}
+.text-container {
+	justify-content: space-between;
+  padding: 10px 20px;
+  background-color: #5F9EA0;
+}

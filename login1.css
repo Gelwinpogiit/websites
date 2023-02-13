@@ -1,0 +1,41 @@
+{
+ margin: 0;
+ padding: 0;
+ box-sitting: border-box;
+ font-family: 'poppins', ,sans-serif;
+font-family:impact;
+}
+.center {
+	margin-top: 60px;
+	margin-bottom: 90px;
+}
+body {
+	height: 100vd;
+	background-repeat: no-repeat;
+	background-attachment:fixed;
+	background-size:cover;
+	justify-content: center;
+	align-items: center;
+	padding: 10px;
+	background-image: url("pic2.jpg");
+	font-size:18px;
+}
+::selection {
+	 background: #FFF8DC
+}
+.container {
+   background-color : rgba(0, 0, 0, 0.5);
+   max-width:450px;
+   width:100%;
+   padding: 10px 60px;
+   border-radius: 10px;
+   box-shadow: 0 10px 10px rgba(0, 0, 0, 0.10);
+   color: #FFFAF0
+}
+a {
+font-family: verdana;
+}
+
+
+
+
